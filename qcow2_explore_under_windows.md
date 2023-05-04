@@ -40,7 +40,7 @@ I/O size (minimum/optimal): 512 bytes / 512 bytes
 Disklabel type: gpt  
 Disk identifier: 123  
 
-Device      Start       End   Sectors  Size Type 
+Device      Start       End   Sectors  Size Type  
 /dev/nbd0p1  2048      4095      2048    1M BIOS boot  
 /dev/nbd0p2  4096 209715166 209711071  100G Linux filesystem  
 
