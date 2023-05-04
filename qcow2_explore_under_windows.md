@@ -47,4 +47,4 @@ Device      Start       End   Sectors  Size Type</br>
 11. Mount NBD data partition’s filesystem</br>
 shell: mount -o ro /dev/nbd0p2 /mnt
 
-**now cow2 image internals are red-only mounted in /mnt**
+**now cow2 image internals are read-only mounted in /mnt**
