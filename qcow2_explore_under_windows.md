@@ -17,6 +17,8 @@ cmd: multipass mount C:\Users\Vito\Downloads\ImageStorage primary:/home/ubuntu/m
 6. check the folder is mounted, you should see the image file image.img</br>
 shell: ls /home/ubuntu/my_windows_mount
 
+next part is taken from https://docs.j7k6.org/mount-qcow2-disk-image-linux/
+
 7. Install qemu-utils</br>
 shell: apt install qemu-utils
 
